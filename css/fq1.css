@@ -22,6 +22,7 @@ a{
     width: 70em;
     border-radius:1.5em;
     margin-bottom: 100px;
+    margin-top: 120px;;
 }
 .nav > h1{
     text-align: center;
@@ -51,6 +52,7 @@ a{
 .plan{
     text-align: center;
     margin-bottom: 50px;
+    width: 100%;
 }
 .plan_content{
     width: 60%;
@@ -131,3 +133,17 @@ a{
 .button:checked{
     border: solid 2px #e78e84;
 }
+
+
+@media(max-width:768px){
+    .main{
+        width: 600px;
+    }
+}
+
+@media(max-width:375px){
+    .main{
+        width: 300px;
+    }
+}
+
