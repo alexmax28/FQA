@@ -150,5 +150,11 @@ a{
     .main{
         width: 300px;
     }
+    .banner>h2{
+        color: #ffffff;
+        text-align: center;
+        font-weight: normal;
+        font-size: 16px;
+    }
 }
 
