@@ -36,7 +36,7 @@ a{
     margin-top:1.5em;
 }
 .banner{
-    background-image: linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)),url(/img/banner.png);
+    background-image: linear-gradient(to top, rgba(74,74,74,0.50), rgba(74,74,74,0.50)),url(./img/banner.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
