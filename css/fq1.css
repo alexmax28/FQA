@@ -158,15 +158,6 @@ a{
 a{
     line-height: 2.5em;
 }
-/* .button:hover{
-    border: solid 2px #e78e84;
-    color: #ffffff;
-    background-color:  #e78e84;
-}
-.button:checked{
-    border: solid 2px #e78e84;
-} */
-
 
 @media(max-width:768px){
     .main{
