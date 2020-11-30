@@ -169,7 +169,7 @@ p{
 html {
 	height: 100%;
     background: #f1f1f1;
-    position: relative;
+    /* position: relative; */
 }
 
 
@@ -380,13 +380,13 @@ html {
 .footer{
     width: 100%;
     background-color: #424754;
-    position: absolute;
+    /* position: absolute; */
     bottom: 0px;
 }
 .footer_content{
     color:white;
     font-size: 16px;
-    padding: 10px;
+    padding: 3em;
     width: 550px;
     margin: 0 auto;
 }
@@ -1010,7 +1010,7 @@ html {
 
 @media(max-width:376px){
     .main{
-        width: 300px;
+        width: 100%;
     }
     .title>h1{
         font-size: 26px;
