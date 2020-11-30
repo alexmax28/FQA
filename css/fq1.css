@@ -1030,7 +1030,7 @@ html {
         display: block;
     }
     .write_step>ul{
-        width: 100%;
+        width: 10em;
     }
     
 }
