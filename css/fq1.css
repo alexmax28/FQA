@@ -862,6 +862,9 @@ html {
     .footer_content{
         width: auto;
     }
+    .write_step>ul{
+        width: 100%;
+    }
 
 
 
@@ -1026,6 +1029,9 @@ html {
         padding-right: 0px;
         padding-left: 0px;
         display: block;
+    }
+    .write_step>ul{
+        width: 100%;
     }
     
 }
